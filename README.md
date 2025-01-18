@@ -22,7 +22,7 @@ Here are some of the technologies I am familiar with:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/sahil-raj-651528339)
+- www.linkedin.com/in/sahil-raj-651528339
 
 
 
