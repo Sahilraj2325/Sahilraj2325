@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a college student with a growing passion for p
 - 🌱 I’m learning more about software development and algorithms.
 - 👯 I’m looking to collaborate on beginner-friendly projects or open-source contributions.
 - 💬 Feel free to ask me about Java, Python, or any programming-related queries!
-- 📫 You can reach me at: [your-email@example.com]
+- 📫 You can reach me at: [sahilraj240204@gmail.com]
 - ⚡ Fun fact: I love solving puzzles and challenges in my spare time!
 
 ## 🛠️ Technologies & Tools
